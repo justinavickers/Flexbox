@@ -1,0 +1,17 @@
+.pageHeader {
+  text-align: center;
+}
+
+section {
+  flex-basis: 33%;
+}
+
+article {
+display: flex;
+  flex-wrap: wrap; 
+}
+
+.shop1 {
+display: flex;
+justify-content: center;
+}
